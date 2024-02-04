@@ -1404,3 +1404,44 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.04-05.38.16:137][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
 [2024.02.04-05.38.16:159][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
 [2024.02.04-05.38.16:473][365]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.02.04-05.46.39:803][329]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.04-05.46.39:813][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-05.46.39:813][329]PIE: New page: PIE session: TutorialMap (Feb 3, 2024, 5:46:39 PM)
+[2024.02.04-05.46.39:813][329]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2024.02.04-05.46.39:815][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002744s)
+[2024.02.04-05.46.39:816][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002818s)
+[2024.02.04-05.46.39:823][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.02.04-05.46.39:824][329]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-05.46.39:824][329]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-05.46.39:825][329]LogAIModule: Creating AISystem for world TutorialMap
+[2024.02.04-05.46.39:825][329]LogPlayLevel: PIE: World Init took: (0.001786s)
+[2024.02.04-05.46.39:825][329]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.02.04-05.46.39:825][329]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-05.46.39:825][329]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-05.46.39:825][329]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-05.46.39:825][329]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-05.46.39:825][329]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.04-05.46.39:826][329]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.04-05.46.39:826][329]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.04-05.46.39:826][329]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-05.46.39:827][329]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-05.46.39:828][329]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-05.46.39:828][329]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-05.46.39:834][329]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-05.46.39:919][329]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logi USB Headset)
+[2024.02.04-05.46.39:921][329]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-05.46.39:921][329]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-05.46.39:921][329]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-05.46.39:924][329]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.02.04-05.46.39:924][329]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.02.04-05.46.39:932][329]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.02.04-05.46.39:932][329]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.02.04-05.46.39:932][329]LogInit: FAudioDevice initialized with ID 7.
+[2024.02.04-05.46.39:932][329]LogAudio: Display: Audio Device (ID: 7) registered with world 'TutorialMap'.
+[2024.02.04-05.46.39:932][329]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.04-05.46.39:971][329]LogLoad: Game class is 'GM_Tutorial_C'
+[2024.02.04-05.46.39:972][329]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2024.02.03-23.46.39
+[2024.02.04-05.46.39:973][329]LogWorld: Bringing up level for play took: 0.001524
+[2024.02.04-05.46.39:981][329]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.02.04-05.46.39:999][329]PIE: Server logged in
+[2024.02.04-05.46.40:000][329]PIE: Play in editor total start time 0.188 seconds.

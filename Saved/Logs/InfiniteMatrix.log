@@ -2166,3 +2166,319 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.04-05.01.49:699][779]AssetCheck: New page: Asset Save: multiple assets
 [2024.02.04-05.01.49:699][779]LogContentValidation: Display: Validating /Script/Engine.World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
 [2024.02.04-05.01.49:699][779]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2024.02.04-05.05.09:030][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-05.05.09:310][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../../../Users/shour/Desktop/Projects/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2024.02.04-05.05.09:413][456]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_Tunnel
+[2024.02.04-05.05.09:416][456]LogSavePackage: Moving '../../../../../../Users/shour/Desktop/Projects/InfiniteMatrix/Saved/BP_Tunnel575D739D468EDE508BE480A26363ECA2.tmp' to '../../../../../../Users/shour/Desktop/Projects/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2024.02.04-05.05.09:442][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 412 ms (total: 6.24 sec)
+[2024.02.04-05.05.09:446][456]AssetCheck: New page: Asset Save: BP_Tunnel
+[2024.02.04-05.05.09:446][456]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2024.02.04-05.07.05:771][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-05.07.06:017][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../../../Users/shour/Desktop/Projects/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2024.02.04-05.07.06:112][ 56]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_Tunnel
+[2024.02.04-05.07.06:114][ 56]LogSavePackage: Moving '../../../../../../Users/shour/Desktop/Projects/InfiniteMatrix/Saved/BP_TunnelB0AA85B7429B1BC128F3C29E678A2940.tmp' to '../../../../../../Users/shour/Desktop/Projects/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2024.02.04-05.07.06:146][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 375 ms (total: 6.61 sec)
+[2024.02.04-05.07.06:157][ 56]AssetCheck: New page: Asset Save: BP_Tunnel
+[2024.02.04-05.07.06:157][ 56]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2024.02.04-05.07.07:351][ 77]BlueprintLog: New page: Compile BP_Tunnel
+[2024.02.04-05.07.07:535][ 77]LogUObjectHash: Compacting FUObjectHashTables data took  12.22ms
+[2024.02.04-05.07.11:780][138]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.04-05.07.11:790][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-05.07.11:790][138]PIE: New page: PIE session: TutorialMap (Feb 3, 2024, 5:07:11 PM)
+[2024.02.04-05.07.11:791][138]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2024.02.04-05.07.11:794][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003477s)
+[2024.02.04-05.07.11:794][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.003559s)
+[2024.02.04-05.07.11:876][138]LogUObjectHash: Compacting FUObjectHashTables data took  10.16ms
+[2024.02.04-05.07.11:884][138]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-05.07.11:884][138]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-05.07.11:887][138]LogAIModule: Creating AISystem for world TutorialMap
+[2024.02.04-05.07.11:888][138]LogPlayLevel: PIE: World Init took: (0.004255s)
+[2024.02.04-05.07.11:888][138]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.02.04-05.07.11:888][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-05.07.11:888][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-05.07.11:888][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-05.07.11:888][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-05.07.11:888][138]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.04-05.07.11:888][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.04-05.07.11:888][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.04-05.07.11:888][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-05.07.11:890][138]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-05.07.11:890][138]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-05.07.11:891][138]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-05.07.11:899][138]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-05.07.11:995][138]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Sujoy’s AirPods Pro - Find My)
+[2024.02.04-05.07.11:996][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-05.07.11:996][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-05.07.11:997][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-05.07.12:002][138]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.02.04-05.07.12:002][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.02.04-05.07.12:007][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.02.04-05.07.12:007][138]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.02.04-05.07.12:007][138]LogInit: FAudioDevice initialized with ID 16.
+[2024.02.04-05.07.12:007][138]LogAudio: Display: Audio Device (ID: 16) registered with world 'TutorialMap'.
+[2024.02.04-05.07.12:007][138]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.02.04-05.07.12:020][138]LogLoad: Game class is 'GM_Tutorial_C'
+[2024.02.04-05.07.12:022][138]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2024.02.03-23.07.12
+[2024.02.04-05.07.12:023][138]LogWorld: Bringing up level for play took: 0.001209
+[2024.02.04-05.07.12:029][138]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.02.04-05.07.12:046][138]PIE: Server logged in
+[2024.02.04-05.07.12:048][138]PIE: Play in editor total start time 0.258 seconds.
+[2024.02.04-05.07.17:557][204]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_1.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_1.
+[2024.02.04-05.07.37:115][463]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-05.07.37:115][463]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.04-05.07.38:683][485]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-05.07.38:683][485]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.04-05.08.11:870][904]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_6.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_6.
+[2024.02.04-05.08.12:111][907]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-05.08.12:112][907]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.04-05.08.13:666][927]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-05.08.13:666][927]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.04-05.08.20:538][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-05.08.20:538][ 19]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2024.02.04-05.08.20:539][ 19]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-05.08.20:539][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-05.08.20:663][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-05.08.20:677][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-05.08.20:750][ 19]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-05.08.20:750][ 19]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.02.04-05.08.20:750][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.02.04-05.08.20:757][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.02.04-05.08.20:770][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-05.08.20:794][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2024.02.04-05.08.20:863][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.02.04-05.08.22:641][ 49]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.04-05.08.22:660][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-05.08.22:660][ 49]PIE: New page: PIE session: TutorialMap (Feb 3, 2024, 5:08:22 PM)
+[2024.02.04-05.08.22:660][ 49]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2024.02.04-05.08.22:666][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004874s)
+[2024.02.04-05.08.22:666][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004981s)
+[2024.02.04-05.08.22:709][ 49]LogUObjectHash: Compacting FUObjectHashTables data took  10.38ms
+[2024.02.04-05.08.22:711][ 49]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-05.08.22:711][ 49]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-05.08.22:712][ 49]LogAIModule: Creating AISystem for world TutorialMap
+[2024.02.04-05.08.22:713][ 49]LogPlayLevel: PIE: World Init took: (0.003192s)
+[2024.02.04-05.08.22:713][ 49]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.02.04-05.08.22:713][ 49]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-05.08.22:713][ 49]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-05.08.22:713][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-05.08.22:713][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-05.08.22:713][ 49]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.04-05.08.22:713][ 49]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.04-05.08.22:713][ 49]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.04-05.08.22:713][ 49]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-05.08.22:715][ 49]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-05.08.22:715][ 49]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-05.08.22:715][ 49]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-05.08.22:722][ 49]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-05.08.22:786][ 49]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Sujoy’s AirPods Pro - Find My)
+[2024.02.04-05.08.22:786][ 49]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-05.08.22:786][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-05.08.22:787][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-05.08.22:788][ 49]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.02.04-05.08.22:788][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.02.04-05.08.22:795][ 49]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.02.04-05.08.22:795][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.02.04-05.08.22:796][ 49]LogInit: FAudioDevice initialized with ID 17.
+[2024.02.04-05.08.22:796][ 49]LogAudio: Display: Audio Device (ID: 17) registered with world 'TutorialMap'.
+[2024.02.04-05.08.22:796][ 49]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.02.04-05.08.22:803][ 49]LogLoad: Game class is 'GM_Tutorial_C'
+[2024.02.04-05.08.22:804][ 49]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2024.02.03-23.08.22
+[2024.02.04-05.08.22:805][ 49]LogWorld: Bringing up level for play took: 0.001066
+[2024.02.04-05.08.22:811][ 49]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.02.04-05.08.22:825][ 49]PIE: Server logged in
+[2024.02.04-05.08.22:827][ 49]PIE: Play in editor total start time 0.167 seconds.
+[2024.02.04-05.08.34:117][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-05.08.34:118][199]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2024.02.04-05.08.34:118][199]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-05.08.34:118][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-05.08.34:229][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-05.08.34:240][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-05.08.34:288][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-05.08.34:288][199]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.02.04-05.08.34:288][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.02.04-05.08.34:293][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.02.04-05.08.34:318][199]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2024.02.04-05.08.34:391][200]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.02.04-05.08.38:631][259]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.04-05.08.38:641][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-05.08.38:641][259]PIE: New page: PIE session: TutorialMap (Feb 3, 2024, 5:08:38 PM)
+[2024.02.04-05.08.38:641][259]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2024.02.04-05.08.38:644][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003232s)
+[2024.02.04-05.08.38:644][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.003304s)
+[2024.02.04-05.08.38:667][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2024.02.04-05.08.38:668][259]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-05.08.38:668][259]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-05.08.38:669][259]LogAIModule: Creating AISystem for world TutorialMap
+[2024.02.04-05.08.38:669][259]LogPlayLevel: PIE: World Init took: (0.001423s)
+[2024.02.04-05.08.38:669][259]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.02.04-05.08.38:669][259]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-05.08.38:669][259]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-05.08.38:669][259]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-05.08.38:669][259]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-05.08.38:669][259]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.04-05.08.38:669][259]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.04-05.08.38:669][259]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.04-05.08.38:669][259]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-05.08.38:670][259]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-05.08.38:670][259]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-05.08.38:670][259]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-05.08.38:673][259]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-05.08.38:746][259]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Sujoy’s AirPods Pro - Find My)
+[2024.02.04-05.08.38:747][259]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-05.08.38:747][259]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-05.08.38:747][259]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-05.08.38:749][259]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.02.04-05.08.38:749][259]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.02.04-05.08.38:757][259]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.02.04-05.08.38:757][259]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.02.04-05.08.38:757][259]LogInit: FAudioDevice initialized with ID 18.
+[2024.02.04-05.08.38:757][259]LogAudio: Display: Audio Device (ID: 18) registered with world 'TutorialMap'.
+[2024.02.04-05.08.38:757][259]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.02.04-05.08.38:765][259]LogLoad: Game class is 'GM_Tutorial_C'
+[2024.02.04-05.08.38:767][259]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2024.02.03-23.08.38
+[2024.02.04-05.08.38:768][259]LogWorld: Bringing up level for play took: 0.001722
+[2024.02.04-05.08.38:776][259]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.02.04-05.08.38:793][259]PIE: Server logged in
+[2024.02.04-05.08.38:796][259]PIE: Play in editor total start time 0.155 seconds.
+[2024.02.04-05.08.50:953][404]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_0.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_0.
+[2024.02.04-05.08.52:837][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-05.08.52:837][425]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2024.02.04-05.08.52:837][425]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-05.08.52:838][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-05.08.52:951][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-05.08.52:962][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-05.08.53:009][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-05.08.53:010][425]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.02.04-05.08.53:010][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.02.04-05.08.53:014][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.02.04-05.08.53:040][425]LogUObjectHash: Compacting FUObjectHashTables data took   8.31ms
+[2024.02.04-05.08.53:099][426]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.02.04-05.08.54:598][452]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.04-05.08.54:616][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-05.08.54:616][452]PIE: New page: PIE session: TutorialMap (Feb 3, 2024, 5:08:54 PM)
+[2024.02.04-05.08.54:616][452]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2024.02.04-05.08.54:620][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004468s)
+[2024.02.04-05.08.54:620][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004583s)
+[2024.02.04-05.08.54:674][452]LogUObjectHash: Compacting FUObjectHashTables data took   8.33ms
+[2024.02.04-05.08.54:675][452]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-05.08.54:676][452]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-05.08.54:677][452]LogAIModule: Creating AISystem for world TutorialMap
+[2024.02.04-05.08.54:677][452]LogPlayLevel: PIE: World Init took: (0.002283s)
+[2024.02.04-05.08.54:678][452]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.02.04-05.08.54:678][452]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-05.08.54:678][452]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-05.08.54:678][452]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-05.08.54:678][452]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-05.08.54:678][452]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.04-05.08.54:678][452]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.04-05.08.54:678][452]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.04-05.08.54:678][452]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-05.08.54:679][452]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-05.08.54:679][452]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-05.08.54:679][452]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-05.08.54:685][452]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-05.08.54:750][452]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Sujoy’s AirPods Pro - Find My)
+[2024.02.04-05.08.54:750][452]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-05.08.54:750][452]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-05.08.54:750][452]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-05.08.54:751][452]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.02.04-05.08.54:751][452]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.02.04-05.08.54:757][452]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.02.04-05.08.54:757][452]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.02.04-05.08.54:757][452]LogInit: FAudioDevice initialized with ID 19.
+[2024.02.04-05.08.54:757][452]LogAudio: Display: Audio Device (ID: 19) registered with world 'TutorialMap'.
+[2024.02.04-05.08.54:757][452]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.02.04-05.08.54:764][452]LogLoad: Game class is 'GM_Tutorial_C'
+[2024.02.04-05.08.54:766][452]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2024.02.03-23.08.54
+[2024.02.04-05.08.54:767][452]LogWorld: Bringing up level for play took: 0.001718
+[2024.02.04-05.08.54:773][452]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.02.04-05.08.54:788][452]PIE: Server logged in
+[2024.02.04-05.08.54:790][452]PIE: Play in editor total start time 0.175 seconds.
+[2024.02.04-05.09.01:703][540]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_2.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_2.
+[2024.02.04-05.09.01:892][542]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_3.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_3.
+[2024.02.04-05.09.02:898][554]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_9.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_9.
+[2024.02.04-05.09.03:622][562]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_13.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_13.
+[2024.02.04-05.09.04:720][574]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_15.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_15.
+[2024.02.04-05.09.05:940][589]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_17.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_17.
+[2024.02.04-05.09.06:861][600]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_20.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_20.
+[2024.02.04-05.09.07:058][602]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_21.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_21.
+[2024.02.04-05.09.08:469][617]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_25.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_25.
+[2024.02.04-05.09.08:719][619]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_26.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_26.
+[2024.02.04-05.09.09:150][623]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_29.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_29.
+[2024.02.04-05.09.09:447][627]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_31.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_31.
+[2024.02.04-05.09.10:012][634]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_30.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_30.
+[2024.02.04-05.09.10:334][638]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_34.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_34.
+[2024.02.04-05.09.10:334][638]LogScript: Warning: Attempted to access BP_Projectile_C_34 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_34 is not valid (pending kill or garbage)
+	BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+	Function /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player_C:SpawnProjectile:01FE
+[2024.02.04-05.09.10:334][638]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Projectile_C_34 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_34 is not valid (pending kill or garbage)". Node:  Set ProjectileSpeed Graph:  SpawnProjectile Function:  Spawn Projectile Blueprint:  BP_Player
+[2024.02.04-05.09.10:335][638]LogScript: Warning: Attempted to assign to None
+	BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+	Function /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player_C:SpawnProjectile:0213
+[2024.02.04-05.09.10:335][638]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set ProjectileSpeed Graph:  SpawnProjectile Function:  Spawn Projectile Blueprint:  BP_Player
+[2024.02.04-05.09.10:335][638]LogScript: Warning: Attempted to access BP_Projectile_C_34 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_34 is not valid (pending kill or garbage)
+	BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+	Function /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player_C:SpawnProjectile:0229
+[2024.02.04-05.09.10:335][638]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Projectile_C_34 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_34 is not valid (pending kill or garbage)". Node:  Set SpawningPlayer Graph:  SpawnProjectile Function:  Spawn Projectile Blueprint:  BP_Player
+[2024.02.04-05.09.10:335][638]LogScript: Warning: Accessed None attempting to assign variable on an object
+	BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+	Function /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player_C:SpawnProjectile:023E
+[2024.02.04-05.09.10:335][638]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Node:  Set SpawningPlayer Graph:  SpawnProjectile Function:  Spawn Projectile Blueprint:  BP_Player
+[2024.02.04-05.09.11:564][648]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_37.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_37.
+[2024.02.04-05.09.16:497][700]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_47.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_47.
+[2024.02.04-05.09.19:791][738]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_50.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_50.
+[2024.02.04-05.09.20:393][743]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_52.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_52.
+[2024.02.04-05.09.28:883][857]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-05.09.28:883][857]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.04-05.09.30:600][879]LogScript: Warning: Script Msg: The widget 'WBP_Restart_C_0' was already added to the screen.
+[2024.02.04-05.09.30:600][879]LogScript: Warning: Script Msg called by: BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+[2024.02.04-05.09.31:767][895]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-05.09.31:767][895]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.04-05.09.38:257][982]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_55.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_55.
+[2024.02.04-05.09.38:638][987]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_56.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_56.
+[2024.02.04-05.09.39:088][993]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_57.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_57.
+[2024.02.04-05.09.39:690][  1]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_58.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_58.
+[2024.02.04-05.09.45:155][ 75]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_64.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_64.
+[2024.02.04-05.09.45:373][ 78]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_65.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_65.
+[2024.02.04-05.09.46:368][ 91]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_66.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_66.
+[2024.02.04-05.09.48:566][119]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_71.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_71.
+[2024.02.04-05.09.48:725][121]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_72.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_72.
+[2024.02.04-05.09.51:268][154]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-05.09.51:268][154]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.04-05.09.52:808][176]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-05.09.52:808][176]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.04-05.09.53:549][185]LogScript: Warning: Attempted to access BP_Projectile_C_76 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_76 is not valid (pending kill or garbage)
+	BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+	Function /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player_C:SpawnProjectile:01FE
+[2024.02.04-05.09.53:549][185]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Projectile_C_76 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_76 is not valid (pending kill or garbage)". Node:  Set ProjectileSpeed Graph:  SpawnProjectile Function:  Spawn Projectile Blueprint:  BP_Player
+[2024.02.04-05.09.53:549][185]LogScript: Warning: Attempted to assign to None
+	BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+	Function /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player_C:SpawnProjectile:0213
+[2024.02.04-05.09.53:549][185]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set ProjectileSpeed Graph:  SpawnProjectile Function:  Spawn Projectile Blueprint:  BP_Player
+[2024.02.04-05.09.53:549][185]LogScript: Warning: Attempted to access BP_Projectile_C_76 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_76 is not valid (pending kill or garbage)
+	BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+	Function /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player_C:SpawnProjectile:0229
+[2024.02.04-05.09.53:549][185]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Projectile_C_76 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_76 is not valid (pending kill or garbage)". Node:  Set SpawningPlayer Graph:  SpawnProjectile Function:  Spawn Projectile Blueprint:  BP_Player
+[2024.02.04-05.09.53:549][185]LogScript: Warning: Accessed None attempting to assign variable on an object
+	BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+	Function /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player_C:SpawnProjectile:023E
+[2024.02.04-05.09.53:550][185]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Node:  Set SpawningPlayer Graph:  SpawnProjectile Function:  Spawn Projectile Blueprint:  BP_Player
+[2024.02.04-05.10.07:702][375]LogActorComponent: Error: May not destroy component StaticMeshComponent /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_79.StaticMeshComponent0 owned by BP_Projectile_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Projectile_C_79.
+[2024.02.04-05.10.29:575][670]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-05.10.29:575][670]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.04-05.10.30:681][686]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-05.10.30:681][686]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.04-05.10.50:087][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-05.10.50:087][948]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2024.02.04-05.10.50:088][948]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-05.10.50:089][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-05.10.50:208][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-05.10.50:221][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-05.10.50:292][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-05.10.50:292][948]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.02.04-05.10.50:293][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.02.04-05.10.50:297][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.02.04-05.10.50:335][948]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2024.02.04-05.10.50:634][949]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.02.04-05.10.52:313][975]LogSlate: Window 'Message Log' being destroyed
+[2024.02.04-05.10.52:421][975]LogSlate: Window 'Message Log' being destroyed

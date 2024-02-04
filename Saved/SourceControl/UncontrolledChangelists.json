@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/Cube.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixProject/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Material.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Object_9.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Material_baseColor.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Medkit_Material_color_tga.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Object_2.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Object_3.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Object_4.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Object_5.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Object_6.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Object_7.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Object_8.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_HUD.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/DigitalDisplayRegular-ODEO_Font.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/DigitalDisplayRegular-ODEO.uasset",
+				"C:/Users/shour/Downloads/CS415-master(2)/CS415-master/InfiniteMatrixStarter 5.2/Content/Blueprints/BP_Projectile.uasset",
+				"/Users/mohnish/source/repos/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/mohnish/source/repos/CS415/InfiniteMatrixStarter 5.2/Content/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/mohnish/source/repos/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/mohnish/source/repos/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/mohnish/source/repos/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/mohnish/source/repos/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_Health.uasset",
+				"/Users/mohnish/source/repos/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_HUD.uasset"
+			]
+		}
+	]
+}
